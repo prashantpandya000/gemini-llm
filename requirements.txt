@@ -1,4 +1,9 @@
 pandas
 streamlit
-google-cloud-aiplatform>=1.38
-      
+google-cloud-aiplatform>=1.38 
+google-generativeai
+ipython
+gtts
+SpeechRecognition
+pyaudio
+python-dotenv
